@@ -8,4 +8,3 @@ This is a sample project to provide example on how to add JWT token authenticati
  2.  JWT (0.6.0)
  3.  PostgreSql
  4. Java 1.8
-## Similar Post
